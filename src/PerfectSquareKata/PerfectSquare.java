@@ -1,3 +1,5 @@
+package PerfectSquareKata;
+
 import static java.lang.Math.*;
 
 public class PerfectSquare {

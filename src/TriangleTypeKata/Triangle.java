@@ -1,3 +1,5 @@
+package TriangleTypeKata;
+
 public class Triangle {
 
     public static int triangleType(int sideA, int sideB, int sideC) {

@@ -1,3 +1,6 @@
+package TriangleTypeTests;
+
+import TriangleTypeKata.Triangle;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
