@@ -22,33 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TriangleTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/TriangleTypeTests/TriangleTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PerfectSquareTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/PerfectSquareTests/PerfectSquareTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DubstepKataTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="25" column="85" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#227#228#0" expanded="true" />
@@ -61,11 +39,15 @@
       <file leaf-file-name="Dubstep.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="340">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding>
                 <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,54 +218,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC">
-    <configuration default="false" name="TriangleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Square" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="TriangleTypeTests" />
-      <option name="MAIN_CLASS_NAME" value="TriangleTypeTests.TriangleTests" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="PerfectSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PerfectSquareTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Square" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="PerfectSquareTests" />
-      <option name="MAIN_CLASS_NAME" value="PerfectSquareTests.PerfectSquareTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA">
     <configuration default="false" name="DubstepKataTests.when_the_song_is_WUBA_should_return_A" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -349,6 +284,58 @@
       <option name="PACKAGE_NAME" value="DubstepTests" />
       <option name="MAIN_CLASS_NAME" value="DubstepTests.DubstepKataTests" />
       <option name="METHOD_NAME" value="when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DubstepKataTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DubstepTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Square" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="DubstepTests" />
+      <option name="MAIN_CLASS_NAME" value="DubstepTests.DubstepKataTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DubstepTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Square" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="DubstepTests" />
+      <option name="MAIN_CLASS_NAME" value="DubstepTests.DubstepKataTests" />
+      <option name="METHOD_NAME" value="when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -597,19 +584,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PerfectSquareTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBA_should_return_A" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBA_should_return_A" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DubstepKataTests" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBA_should_return_A" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PerfectSquareTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DubstepKataTests.when_the_song_is_WUBA_should_return_A" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DubstepKataTests" />
       </list>
     </recent_temporary>
   </component>
@@ -630,35 +617,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 20h 00m 35s.xml">
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 29m 56s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBA_should_return_A - 2016.05.26 at 19h 56m 48s.xml">
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 30m 15s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 30m 29s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 30m 57s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 31m 04s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 34m 52s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 34m 59s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBA_should_return_A - 2016.05.26 at 22h 29m 51s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_WUBA_should_return_A" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBA_should_return_A - 2016.05.26 at 19h 58m 30s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBA_should_return_A" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 19h 56m 53s.xml">
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 22h 29m 54s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 19h 57m 51s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 19h 58m 16s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 20h 00m 38s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PerfectSquareTest - 2016.05.26 at 19h 12m 38s.xml">
-      <configuration name="PerfectSquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangleTests - 2016.05.26 at 19h 12m 28s.xml">
-      <configuration name="TriangleTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangleTests - 2016.05.26 at 19h 12m 35s.xml">
-      <configuration name="TriangleTests" configurationId="JUnit" />
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 22h 37m 44s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -704,7 +691,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -745,7 +732,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -771,7 +758,7 @@
         <state relative-caret-position="34">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -821,6 +808,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/PerfectSquareTests/PerfectSquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/TriangleTypeTests/TriangleTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -829,31 +826,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/PerfectSquareTests/PerfectSquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="340">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
             <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="25" column="85" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#227#228#0" expanded="true" />
