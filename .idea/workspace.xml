@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DubstepKataTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DubstepKataTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="85" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+            <state relative-caret-position="408">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="121" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#227#228#0" expanded="true" />
@@ -36,18 +36,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dubstep.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dubstep.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="136">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="e#88#89#0" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,8 +84,8 @@
         <option value="$PROJECT_DIR$/tests/TriangleTypeTests/TriangleTests.java" />
         <option value="$PROJECT_DIR$/tests/PerfectSquareTests/PerfectSquareTest.java" />
         <option value="$PROJECT_DIR$/src/DubstepKata/README.md" />
-        <option value="$PROJECT_DIR$/src/DubstepKata/Dubstep.java" />
         <option value="$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java" />
+        <option value="$PROJECT_DIR$/src/DubstepKata/Dubstep.java" />
       </list>
     </option>
   </component>
@@ -137,70 +137,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DubstepTests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DubstepKata" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,12 +553,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 29m 56s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 30m 15s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 30m 29s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
     </history-entry>
@@ -638,18 +568,24 @@
     <history-entry file="DubstepKataTests_when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L - 2016.05.26 at 22h 34m 59s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_RWUBWUBWUBLWUB_should_return_R_space_L" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBA_should_return_A - 2016.05.26 at 22h 29m 51s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBA_should_return_A" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBABCWUB_should_return_ABC - 2016.05.26 at 22h 29m 54s.xml">
-      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBABCWUB_should_return_ABC" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 22h 37m 44s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 22h 40m 32s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 22h 40m 38s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 23h 05m 39s.xml">
+      <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DubstepKataTests_when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA - 2016.05.26 at 23h 05m 51s.xml">
       <configuration name="DubstepKataTests.when_the_song_is_WUBWUBIWUBWUBAMWUBWUBWUBALVAROWUBWUBWUBMADAFAKAWUBWUB_should_return_I_AM_ALVARO_MADAFAKA" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -826,29 +762,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="85" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+        <state relative-caret-position="408">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="121" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#227#228#0" expanded="true" />
             <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>

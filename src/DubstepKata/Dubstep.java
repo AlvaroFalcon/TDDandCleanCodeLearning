@@ -6,11 +6,10 @@ public class Dubstep {
     }
 
     private String process(String song) {
-        String decodedSong = song;
-        while (decodedSong.contains("WUBWUB")) {
-            decodedSong = reduceWUBtoOne(decodedSong);
+        while (song.contains("WUBWUB")) {
+            song = reduceWUBtoOne(song);
         }
-        return deleteWub(decodedSong).trim();
+        return deleteWub(song).trim();
     }
 
     private String deleteWub(String song) {
