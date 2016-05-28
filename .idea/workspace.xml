@@ -26,13 +26,11 @@
         <entry file="file://$PROJECT_DIR$/tests/VasyaClerkTests/VasyaClerkKataTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,9 +39,28 @@
       <file leaf-file-name="VasyaClerk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/VasyaClerkKata/VasyaClerk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="28" column="109" selection-start-line="28" selection-start-column="109" selection-end-line="28" selection-end-column="109" />
-              <folding />
+            <state relative-caret-position="309">
+              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+              <folding>
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="e#1452#1453#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
+                <element signature="e#1776#1777#0" expanded="true" />
+                <element signature="e#1845#1846#0" expanded="true" />
+                <element signature="e#2300#2301#0" expanded="true" />
+                <element signature="e#2335#2336#0" expanded="true" />
+                <element signature="e#2388#2389#0" expanded="true" />
+                <element signature="e#2436#2437#0" expanded="true" />
+                <element signature="e#2477#2478#0" expanded="true" />
+                <element signature="e#2517#2518#0" expanded="true" />
+                <element signature="e#2580#2581#0" expanded="true" />
+                <element signature="e#2638#2639#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +100,8 @@
         <option value="$PROJECT_DIR$/src/DubstepKata/Dubstep.java" />
         <option value="$PROJECT_DIR$/tests/TribonacciKataTests/TribonacciTests.java" />
         <option value="$PROJECT_DIR$/src/VasyaClerkKata/README.md" />
-        <option value="$PROJECT_DIR$/src/VasyaClerkKata/VasyaClerk.java" />
         <option value="$PROJECT_DIR$/tests/VasyaClerkTests/VasyaClerkKataTests.java" />
+        <option value="$PROJECT_DIR$/src/VasyaClerkKata/VasyaClerk.java" />
       </list>
     </option>
   </component>
@@ -119,8 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,10 +221,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -218,7 +237,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VasyaClerkKataTests.test2">
+  <component name="RunManager" selected="JUnit.VasyaClerkKataTests">
     <configuration default="false" name="VasyaClerkKataTests.with_one_person_with_25_dollars_should_return_YES" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -605,11 +624,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.test2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.test1" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.with_one_person_with_25_dollars_should_return_YES" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.test1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.VasyaClerkKataTests.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -630,34 +649,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VasyaClerkKataTests - 2016.05.28 at 02h 46m 08s.xml">
+    <history-entry file="VasyaClerkKataTests - 2016.05.28 at 22h 22m 50s.xml">
       <configuration name="VasyaClerkKataTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests_test1 - 2016.05.28 at 02h 39m 03s.xml">
+    <history-entry file="VasyaClerkKataTests - 2016.05.28 at 22h 30m 27s.xml">
+      <configuration name="VasyaClerkKataTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VasyaClerkKataTests_test1 - 2016.05.28 at 22h 22m 42s.xml">
       <configuration name="VasyaClerkKataTests.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests_test1 - 2016.05.28 at 02h 39m 36s.xml">
-      <configuration name="VasyaClerkKataTests.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VasyaClerkKataTests_test2 - 2016.05.28 at 02h 46m 00s.xml">
-      <configuration name="VasyaClerkKataTests.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VasyaClerkKataTests_test2 - 2016.05.28 at 02h 46m 25s.xml">
-      <configuration name="VasyaClerkKataTests.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VasyaClerkKataTests_test2 - 2016.05.28 at 02h 46m 44s.xml">
-      <configuration name="VasyaClerkKataTests.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VasyaClerkKataTests_with_one_person_with_25_dollars_should_return_YES - 2016.05.28 at 02h 39m 46s.xml">
-      <configuration name="VasyaClerkKataTests.with_one_person_with_25_dollars_should_return_YES" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 02h 38m 58s.xml">
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 21h 58m 08s.xml">
       <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 02h 39m 43s.xml">
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 21h 58m 33s.xml">
       <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 02h 46m 05s.xml">
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 21h 59m 43s.xml">
+      <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 22h 03m 46s.xml">
+      <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 22h 03m 56s.xml">
+      <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 22h 04m 12s.xml">
+      <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VasyaClerkKataTests_with_two_person_with_25_and_50_dollars_should_return_YES - 2016.05.28 at 22h 04m 33s.xml">
       <configuration name="VasyaClerkKataTests.with_two_person_with_25_and_50_dollars_should_return_YES" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -704,7 +723,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -713,13 +732,49 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/VasyaClerkTests/VasyaClerkKataTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VasyaClerkKata/VasyaClerk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2335#2336#0" expanded="true" />
+            <element signature="e#2388#2389#0" expanded="true" />
+            <element signature="e#2436#2437#0" expanded="true" />
+            <element signature="e#2477#2478#0" expanded="true" />
+            <element signature="e#2517#2518#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+            <element signature="e#2638#2639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/DubstepTests/DubstepKataTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="121" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,25 +887,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/TribonacciKataTests/TribonacciTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TribonacciKataTests/TribonacciTests.java" />
     <entry file="file://$PROJECT_DIR$/src/DubstepKata/Dubstep.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,31 +906,55 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="102">
             <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/VasyaClerkTests/VasyaClerkKataTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VasyaClerkKata/VasyaClerk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="28" column="109" selection-start-line="28" selection-start-column="109" selection-end-line="28" selection-end-column="109" />
-          <folding />
+        <state relative-caret-position="309">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2335#2336#0" expanded="true" />
+            <element signature="e#2388#2389#0" expanded="true" />
+            <element signature="e#2436#2437#0" expanded="true" />
+            <element signature="e#2477#2478#0" expanded="true" />
+            <element signature="e#2517#2518#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+            <element signature="e#2638#2639#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
