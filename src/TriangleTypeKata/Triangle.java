@@ -11,9 +11,7 @@ public class Triangle {
 
 
     private static boolean isAcute(int sideA, int sideB, int sideC) {
-        if (allAnglesBelowNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC)))
-            return true;
-        return false;
+        return allAnglesBelowNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC));
     }
 
     private static boolean allAnglesBelowNinety(double angleA, double angleB, double angleC) {
@@ -21,9 +19,7 @@ public class Triangle {
     }
 
     private static boolean isRight(int sideA, int sideB, int sideC) {
-        if (oneAngleIsNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC)))
-            return true;
-        return false;
+        return oneAngleIsNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC));
     }
 
     private static boolean oneAngleIsNinety(double angleA, double angleB, double angleC) {
@@ -31,9 +27,7 @@ public class Triangle {
     }
 
     private static boolean isObtuse(int sideA, int sideB, int sideC) {
-        if (oneAngleAboveNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC)))
-            return true;
-        return false;
+        return oneAngleAboveNinety(calculateAAngle(sideA, sideB, sideC), calculateBAngle(sideA, sideB, sideC), calculateCAngle(sideA, sideB, sideC));
     }
 
     private static boolean oneAngleAboveNinety(double angleA, double angleB, int angleC) {

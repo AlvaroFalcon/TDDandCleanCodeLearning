@@ -12,7 +12,6 @@ public class SquareDigitsTests {
     }
 
     @Test
-
     public void when_the_input_is_333_the_output_should_be_999() {
         assertEquals(999, new SquareDigit().squareDigits(333));
     }
