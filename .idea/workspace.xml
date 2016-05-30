@@ -21,23 +21,49 @@
     <favorites_list name="Square" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TriangleTypeKata/Triangle.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrderStringKata/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderStringKataTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/OrderStringTests/OrderStringKataTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TriangleTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/TriangleTypeTests/TriangleTests.java">
+      <file leaf-file-name="OrderString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OrderStringKata/OrderString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding />
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1352#1353#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1468#1469#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +110,9 @@
         <option value="$PROJECT_DIR$/src/SquareEveryDigitKata/SquareDigit.java" />
         <option value="$PROJECT_DIR$/tests/SquareEveryDigitTests/SquareDigitsTests.java" />
         <option value="$PROJECT_DIR$/src/TriangleTypeKata/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/OrderStringKata/README.md" />
+        <option value="$PROJECT_DIR$/src/OrderStringKata/OrderString.java" />
+        <option value="$PROJECT_DIR$/tests/OrderStringTests/OrderStringKataTests.java" />
       </list>
     </option>
   </component>
@@ -118,9 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,7 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TriangleTypeTests" />
+              <option name="myItemId" value="OrderStringTests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,29 +208,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TDDandCleanCodeLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TriangleTypeKata" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,51 +225,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="OrderStringKata" />
       <recent name="SquareEveryDigitTests" />
       <recent name="VasyaClerkKata" />
       <recent name="DubstepKata" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleTests">
-    <configuration default="false" name="SquareDigitsTests.when_the_input_is_22_the_output_should_be_44" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OrderStringKataTests">
+    <configuration default="false" name="TriangleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="SquareEveryDigitKata.*" />
+          <option name="PATTERN" value="TriangleTypeTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Square" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SquareEveryDigitTests" />
-      <option name="MAIN_CLASS_NAME" value="SquareEveryDigitTests.SquareDigitsTests" />
-      <option name="METHOD_NAME" value="when_the_input_is_22_the_output_should_be_44" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="SquareDigitsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SquareEveryDigitTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Square" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SquareEveryDigitTests" />
-      <option name="MAIN_CLASS_NAME" value="SquareEveryDigitTests.SquareDigitsTests" />
+      <option name="PACKAGE_NAME" value="TriangleTypeTests" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTypeTests.TriangleTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -273,19 +259,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="SquareDigitsTests.when_the_input_is_333_the_output_should_be_999" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="OrderStringKataTests.when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="SquareEveryDigitTests.*" />
+          <option name="PATTERN" value="OrderStringTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Square" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SquareEveryDigitTests" />
-      <option name="MAIN_CLASS_NAME" value="SquareEveryDigitTests.SquareDigitsTests" />
-      <option name="METHOD_NAME" value="when_the_input_is_333_the_output_should_be_999" />
+      <option name="PACKAGE_NAME" value="OrderStringTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderStringTests.OrderStringKataTests" />
+      <option name="METHOD_NAME" value="when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -299,19 +285,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TriangleTests.when_isnt_a_triangle_shouldnt_work" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="OrderStringKataTests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="TriangleTypeTests.*" />
+          <option name="PATTERN" value="OrderStringTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Square" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="TriangleTypeTests" />
-      <option name="MAIN_CLASS_NAME" value="TriangleTypeTests.TriangleTests" />
-      <option name="METHOD_NAME" value="when_isnt_a_triangle_shouldnt_work" />
+      <option name="PACKAGE_NAME" value="OrderStringTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderStringTests.OrderStringKataTests" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -325,18 +311,44 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TriangleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="OrderStringKataTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="TriangleTypeTests.*" />
+          <option name="PATTERN" value="OrderStringTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Square" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="TriangleTypeTests" />
-      <option name="MAIN_CLASS_NAME" value="TriangleTypeTests.TriangleTests" />
+      <option name="PACKAGE_NAME" value="OrderStringTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderStringTests.OrderStringKataTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="OrderStringKataTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="OrderStringTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Square" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="OrderStringTests" />
+      <option name="MAIN_CLASS_NAME" value="OrderStringTests.OrderStringKataTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -599,19 +611,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests.when_the_input_is_22_the_output_should_be_44" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests.when_the_input_is_333_the_output_should_be_999" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TriangleTests.when_isnt_a_triangle_shouldnt_work" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.test3" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.test2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TriangleTests.when_isnt_a_triangle_shouldnt_work" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests.when_the_input_is_333_the_output_should_be_999" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SquareDigitsTests.when_the_input_is_22_the_output_should_be_44" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.test2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.test3" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.OrderStringKataTests.when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TriangleTests" />
       </list>
     </recent_temporary>
   </component>
@@ -632,23 +644,23 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SquareDigitsTests_when_the_input_is_333_the_output_should_be_999 - 2016.05.29 at 01h 44m 46s.xml">
-      <configuration name="SquareDigitsTests.when_the_input_is_333_the_output_should_be_999" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests - 2016.05.30 at 23h 13m 06s.xml">
+      <configuration name="OrderStringKataTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTests - 2016.05.29 at 20h 26m 02s.xml">
-      <configuration name="TriangleTests" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests_test2 - 2016.05.30 at 23h 11m 38s.xml">
+      <configuration name="OrderStringKataTests.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTests - 2016.05.29 at 20h 26m 40s.xml">
-      <configuration name="TriangleTests" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests_test3 - 2016.05.30 at 23h 09m 48s.xml">
+      <configuration name="OrderStringKataTests.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTests_when_isnt_a_triangle_shouldnt_work - 2016.05.29 at 20h 25m 58s.xml">
-      <configuration name="TriangleTests.when_isnt_a_triangle_shouldnt_work" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests_test3 - 2016.05.30 at 23h 11m 32s.xml">
+      <configuration name="OrderStringKataTests.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests - 2016.05.28 at 22h 22m 50s.xml">
-      <configuration name="VasyaClerkKataTests" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests_when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st - 2016.05.30 at 22h 50m 11s.xml">
+      <configuration name="OrderStringKataTests.when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VasyaClerkKataTests - 2016.05.28 at 22h 30m 27s.xml">
-      <configuration name="VasyaClerkKataTests" configurationId="JUnit" />
+    <history-entry file="OrderStringKataTests_when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st - 2016.05.30 at 22h 50m 34s.xml">
+      <configuration name="OrderStringKataTests.when_the_string_is_is2_Thi1s_T4est_3a_should_return_thi1s_is2_3a_T4st" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VasyaClerkKataTests - 2016.05.29 at 00h 37m 51s.xml">
       <configuration name="VasyaClerkKataTests" configurationId="JUnit" />
@@ -664,7 +676,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -675,7 +687,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3118393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3118393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -715,6 +727,46 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/OrderStringKata/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/OrderStringTests/OrderStringKataTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderStringKata/OrderString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/VasyaClerkTests/VasyaClerkKataTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -907,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +966,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderStringKata/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/OrderStringTests/OrderStringKataTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderStringKata/OrderString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
