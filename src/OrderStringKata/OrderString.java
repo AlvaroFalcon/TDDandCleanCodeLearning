@@ -20,9 +20,14 @@ public class OrderString {
 
     private static String[] setWord(String word, String[] outputString) {
         for (int position = 0; position < word.length(); position++) {
-            if (isANumber(word.charAt(position))) {
-                outputString = setWordInOrder(outputString, word, word.charAt(position));
-            }
+            outputString = processWord(word, outputString, position);
+        }
+        return outputString;
+    }
+
+    private static String[] processWord(String word, String[] outputString, int position) {
+        if (isANumber(word.charAt(position))) {
+            outputString = setWordInOrder(outputString, word, word.charAt(position));
         }
         return outputString;
     }
